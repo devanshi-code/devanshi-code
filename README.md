@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshi-code" alt="devanshi-code" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React JS**
+- 🌱 I’m currently working on **JavaScript, React JS**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS,ReactJS**
 
 - 📫 How to reach me **devu2732@gmail.com**
 
